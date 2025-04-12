@@ -1,0 +1,117 @@
+     body { background-image:url("bg1.png")
+   }
+    div {
+      border-width: 10px;
+      border-style: solid;
+      width: 250px;
+      height: 250px;
+      background: yellow;
+    }
+    div1 {
+      border-style: groove;
+      border-width: 15px;
+      border-color: magenta;
+      width: 400px;
+      height: 250px;
+      background: green;
+    }
+    div2 {
+      border-top-style: solid;
+      border-right-style: dotted;
+      border-bottom-style: dashed;
+      border-left-style: groove;
+      border-width: 5px;
+      border-color: red;
+      width: 250px;
+      height: 250px;
+      background: black;
+    }
+    div3 {
+      border-top-color: blue;
+      border-right-color: red;
+      border-bottom-color: green;
+      border-left-color: gold;
+      border-style: solid;
+      border-width: 5px;
+      width: 150px;
+      height: 150px;
+      background: yellow;
+    }
+    
+    h1{
+   background-color: yellow;
+   font-color:red;
+      font-size: 20px;
+      border-top-color: blue;
+      border-right-color: red;
+      border-bottom-color: green;
+      border-left-color: gold;
+      border-style: solid;
+      border-width: 5px;
+      width: 350px;
+      height: 70px;
+      align:center;
+    }
+    h2{
+   background-color: yellow;
+   font-color:green;
+      font-size: 18px;
+      align:center;
+    }
+    h3{
+   background-color: brown;
+   font-color:yellow;
+      font-size: 16px;
+      align:center;
+    }
+    p {
+      background-color: pink;
+    }
+    div4 {
+      background-color: purple;
+      width: 200px;
+      height: 200px;
+      padding-top: 30px;
+      padding-right: 50px;
+      padding-bottom: 70px;
+      padding-left: 90px;
+      background: lightgrey;
+      border: 1px solid red;
+    }
+    p {
+      background-color: pink;
+      font-color:blue;
+      font-size: 16px;
+    }
+    p1 {
+      background-color: green;
+      font-color:yellow;
+      font-size: 16px;
+    }
+    p2 {
+      background-color: white;
+      font-color:green;
+      font-size: 16px;
+    }
+    p3 {
+      background-color:brown;
+      font-color:yellow;
+      font-size: 16px;
+    }
+    .container {
+      position: relative;
+    }
+    span {
+      position: absolute;
+      top: 5px;
+      left: 8px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      opacity: 0.4;
+    }
+    video {
+ width: 480px;
+ height:320px;
+    }
